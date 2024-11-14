@@ -1,0 +1,4 @@
+Linear Congruential Generator sequence:
+2
+64
+2

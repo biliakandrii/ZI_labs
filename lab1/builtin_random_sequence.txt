@@ -1,0 +1,4 @@
+Built-in random function sequence:
+2
+983
+468
